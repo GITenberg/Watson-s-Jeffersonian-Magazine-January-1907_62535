@@ -1,5 +1,8 @@
 _repo: Watson-s-Jeffersonian-Magazine-January-1907_62535
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62535-h/images/coversm.jpg
 creator:
   author:
     agent_name: Various
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48641
     wikipedia: https://en.wikipedia.org/wiki/Thomas_E._Watson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62535#Watson-s-Jeffersonian-Magazine-January-1907
 gutenberg_issued: '2020-07-01'
 gutenberg_type: Text
 identifiers:
